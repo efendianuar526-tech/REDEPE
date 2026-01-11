@@ -1,5 +1,5 @@
 name: CHENN
-on
+on:
   workflow_dispatch:
 jobs:
   secure-rdp:
